@@ -1,8 +1,16 @@
 # IMDB Movie Review Sentiment Analysis with LSTM
 
-This repository contains a sentiment analysis model that uses Long Short-Term Memory (LSTM) networks to classify IMDB movie reviews as positive or negative. The dataset used in this project contains 50,000 movie reviews, with an equal distribution of positive and negative sentiment labels. The goal is to predict the sentiment of unseen reviews by leveraging Natural Language Processing (NLP) techniques.
+*COMPANY*: CODTECH IT SOLUTIONS
 
-## Project Overview
+*NAME*: DIVIN DINESH
+
+*INTERN ID*: CT6WHGK
+
+*DOMINE*: DATA SCIENCE
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 In this project, we build and train a sentiment analysis model using a Recurrent Neural Network (RNN), specifically the LSTM architecture, which is known for handling sequential data like text effectively. The IMDB dataset used contains two primary columns: `review` (the text of the review) and `sentiment` (the label, either positive or negative).
 
