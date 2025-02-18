@@ -62,5 +62,7 @@ In this project, we build and train a sentiment analysis model using a Recurrent
 
 This project demonstrates how to use LSTM networks to perform sentiment analysis on text data. It provides a useful foundation for building NLP applications that can classify sentiment in reviews, social media posts, or any other text-based datasets.
 
+# OUTPUT OF THE TASK
+
 ![Image](https://github.com/user-attachments/assets/53377a50-cd29-4b76-8898-7179d935683f)
 ![Image](https://github.com/user-attachments/assets/249692ca-fb2c-4ad9-bf04-bdbf195bbca8)
